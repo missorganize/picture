@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\bin\Debug\huaquanshengqi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\bin\Debug\huaquanshengqi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\bin\Debug\huaquanshengqi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\huaquanshengqi\huaquanshengqi\obj\Debug\huaquanshengqi.pdb
